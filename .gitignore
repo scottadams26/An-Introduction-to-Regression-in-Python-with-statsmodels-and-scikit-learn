@@ -1,3 +1,10 @@
+# User-Defined Directories and Files
+data/
+img/
+scratch/
+text/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
